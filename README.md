@@ -1,0 +1,2 @@
+# plugs
+simple blog
